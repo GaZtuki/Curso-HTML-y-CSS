@@ -1,0 +1,12 @@
+* {
+    margin: 0
+}
+
+#elemento-1 {
+    color: red;
+}
+
+/* no se puede poner el mismo identificador para mas de 1 elemto */
+#elemento-1 {
+    font-size: 2rem;
+}
